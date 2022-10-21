@@ -1,0 +1,391 @@
+rm: cannot remove ‘/localdisk/home/s2118808/ICA1/fastqc.results/.nfs0000000020188d1d000f59c4’: Device or resource busy
+rm: cannot remove ‘/localdisk/home/s2118808/ICA1/fastqc.results/Tco5053/Tco-5053_2/.nfs0000000020188d4f000f59c5’: Device or resource busy
+rm: cannot remove ‘/localdisk/home/s2118808/ICA1/fastqc.results/Tco5053/Tco-5053_1/.nfs0000000020188d21000f59c8’: Device or resource busy
+rm: cannot remove ‘/localdisk/home/s2118808/ICA1/fastqc.results/Tco5053/Tco-5053_1/.nfs0000000020188d4e000f59c7’: Device or resource busy
+rm: cannot remove ‘/localdisk/home/s2118808/ICA1/fastqc.results/Tco5053/Tco-5053_1/Tco-5053_1_fastqc/.nfs0000000020188d2c000f59c6’: Device or resource busy
+rm: cannot remove ‘/localdisk/home/s2118808/ICA1/fastqc.results/Tco6950/Tco-6950_1/.nfs00000000c075e572000f59c2’: Device or resource busy
+Analysing paired end files for Tco5053: Tco-5053_1.fq.gz and Tco-5053_2.fq.gz:
+
+Tco-5053_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5053_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5053 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5110: Tco-5110_1.fq.gz and Tco-5110_2.fq.gz:
+
+Tco-5110_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5110_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5110 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5132: Tco-5132_1.fq.gz and Tco-5132_2.fq.gz:
+
+Tco-5132_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5132_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5132 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5161: Tco-5161_1.fq.gz and Tco-5161_2.fq.gz:
+
+Tco-5161_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5161_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5161 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5224: Tco-5224_1.fq.gz and Tco-5224_2.fq.gz:
+
+Tco-5224_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5224_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5224 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5296: Tco-5296_1.fq.gz and Tco-5296_2.fq.gz:
+
+Tco-5296_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5296_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5296 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5368: Tco-5368_1.fq.gz and Tco-5368_2.fq.gz:
+
+Tco-5368_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5368_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5368 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5375: Tco-5375_1.fq.gz and Tco-5375_2.fq.gz:
+
+Tco-5375_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5375_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5375 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5520: Tco-5520_1.fq.gz and Tco-5520_2.fq.gz:
+
+Tco-5520_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5520_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5520 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5572: Tco-5572_1.fq.gz and Tco-5572_2.fq.gz:
+
+Tco-5572_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5572_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5572 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5578: Tco-5578_1.fq.gz and Tco-5578_2.fq.gz:
+
+Tco-5578_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5578_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5578 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5592: Tco-5592_1.fq.gz and Tco-5592_2.fq.gz:
+
+Tco-5592_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5592_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5592 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5615: Tco-5615_1.fq.gz and Tco-5615_2.fq.gz:
+
+Tco-5615_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5615_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5615 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5646: Tco-5646_1.fq.gz and Tco-5646_2.fq.gz:
+
+Tco-5646_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5646_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5646 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5774: Tco-5774_1.fq.gz and Tco-5774_2.fq.gz:
+
+Tco-5774_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5774_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5774 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5798: Tco-5798_1.fq.gz and Tco-5798_2.fq.gz:
+
+Tco-5798_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5798_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5798 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5814: Tco-5814_1.fq.gz and Tco-5814_2.fq.gz:
+
+Tco-5814_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5814_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5814 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5864: Tco-5864_1.fq.gz and Tco-5864_2.fq.gz:
+
+Tco-5864_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5864_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5864 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5908: Tco-5908_1.fq.gz and Tco-5908_2.fq.gz:
+
+Tco-5908_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5908_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5908 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco5934: Tco-5934_1.fq.gz and Tco-5934_2.fq.gz:
+
+Tco-5934_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-5934_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco5934 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6016: Tco-6016_1.fq.gz and Tco-6016_2.fq.gz:
+
+Tco-6016_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6016_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6016 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6028: Tco-6028_1.fq.gz and Tco-6028_2.fq.gz:
+
+Tco-6028_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6028_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6028 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6037: Tco-6037_1.fq.gz and Tco-6037_2.fq.gz:
+
+Tco-6037_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6037_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6037 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6114: Tco-6114_1.fq.gz and Tco-6114_2.fq.gz:
+
+Tco-6114_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6114_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6114 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6153: Tco-6153_1.fq.gz and Tco-6153_2.fq.gz:
+
+Tco-6153_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6153_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6153 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6195: Tco-6195_1.fq.gz and Tco-6195_2.fq.gz:
+
+Tco-6195_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6195_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6195 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6225: Tco-6225_1.fq.gz and Tco-6225_2.fq.gz:
+
+Tco-6225_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6225_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6225 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6241: Tco-6241_1.fq.gz and Tco-6241_2.fq.gz:
+
+Tco-6241_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6241_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6241 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6288: Tco-6288_1.fq.gz and Tco-6288_2.fq.gz:
+
+Tco-6288_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6288_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6288 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6307: Tco-6307_1.fq.gz and Tco-6307_2.fq.gz:
+
+Tco-6307_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6307_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6307 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6320: Tco-6320_1.fq.gz and Tco-6320_2.fq.gz:
+
+Tco-6320_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6320_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6320 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6395: Tco-6395_1.fq.gz and Tco-6395_2.fq.gz:
+
+Tco-6395_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6395_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6395 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6422: Tco-6422_1.fq.gz and Tco-6422_2.fq.gz:
+
+Tco-6422_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6422_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6422 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6475: Tco-6475_1.fq.gz and Tco-6475_2.fq.gz:
+
+Tco-6475_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6475_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6475 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6499: Tco-6499_1.fq.gz and Tco-6499_2.fq.gz:
+
+Tco-6499_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6499_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6499 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6520: Tco-6520_1.fq.gz and Tco-6520_2.fq.gz:
+
+Tco-6520_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6520_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6520 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6580: Tco-6580_1.fq.gz and Tco-6580_2.fq.gz:
+
+Tco-6580_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6580_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6580 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6600: Tco-6600_1.fq.gz and Tco-6600_2.fq.gz:
+
+Tco-6600_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6600_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6600 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6619: Tco-6619_1.fq.gz and Tco-6619_2.fq.gz:
+
+Tco-6619_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6619_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6619 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6624: Tco-6624_1.fq.gz and Tco-6624_2.fq.gz:
+
+Tco-6624_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6624_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6624 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6658: Tco-6658_1.fq.gz and Tco-6658_2.fq.gz:
+
+Tco-6658_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6658_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6658 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6675: Tco-6675_1.fq.gz and Tco-6675_2.fq.gz:
+
+Tco-6675_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6675_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6675 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6761: Tco-6761_1.fq.gz and Tco-6761_2.fq.gz:
+
+Tco-6761_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6761_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6761 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6778: Tco-6778_1.fq.gz and Tco-6778_2.fq.gz:
+
+Tco-6778_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6778_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6778 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6821: Tco-6821_1.fq.gz and Tco-6821_2.fq.gz:
+
+Tco-6821_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6821_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6821 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6890: Tco-6890_1.fq.gz and Tco-6890_2.fq.gz:
+
+Tco-6890_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6890_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6890 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6894: Tco-6894_1.fq.gz and Tco-6894_2.fq.gz:
+
+Tco-6894_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6894_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6894 did not fail any of the selected fastqc filters
+
+
+Analysing paired end files for Tco6950: Tco-6950_1.fq.gz and Tco-6950_2.fq.gz:
+
+Tco-6950_1 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+Tco-6950_2 has 100000 raw sequences with length 100, of which 0 were flagged as poor quality
+
+Sample Tco6950 did not fail any of the selected fastqc filters
+
+
+No samples failed quality check
