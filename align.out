@@ -1,0 +1,816 @@
+Aligning paired-end files Tco-5053_1.fq.gz and Tco-5053_2.fq.gz from sample Tco5053:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    12585 (12.59%) aligned concordantly 0 times
+    60445 (60.45%) aligned concordantly exactly 1 time
+    26970 (26.97%) aligned concordantly >1 times
+    ----
+    12585 pairs aligned concordantly 0 times; of these:
+      1601 (12.72%) aligned discordantly 1 time
+    ----
+    10984 pairs aligned 0 times concordantly or discordantly; of these:
+      21968 mates make up the pairs; of these:
+        19109 (86.99%) aligned 0 times
+        1176 (5.35%) aligned exactly 1 time
+        1683 (7.66%) aligned >1 times
+90.45% overall alignment rate
+Done
+Aligning paired-end files Tco-5110_1.fq.gz and Tco-5110_2.fq.gz from sample Tco5110:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    10328 (10.33%) aligned concordantly 0 times
+    55638 (55.64%) aligned concordantly exactly 1 time
+    34034 (34.03%) aligned concordantly >1 times
+    ----
+    10328 pairs aligned concordantly 0 times; of these:
+      897 (8.69%) aligned discordantly 1 time
+    ----
+    9431 pairs aligned 0 times concordantly or discordantly; of these:
+      18862 mates make up the pairs; of these:
+        17205 (91.22%) aligned 0 times
+        456 (2.42%) aligned exactly 1 time
+        1201 (6.37%) aligned >1 times
+91.40% overall alignment rate
+Done
+Aligning paired-end files Tco-5132_1.fq.gz and Tco-5132_2.fq.gz from sample Tco5132:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5845 (5.84%) aligned concordantly 0 times
+    67609 (67.61%) aligned concordantly exactly 1 time
+    26546 (26.55%) aligned concordantly >1 times
+    ----
+    5845 pairs aligned concordantly 0 times; of these:
+      1133 (19.38%) aligned discordantly 1 time
+    ----
+    4712 pairs aligned 0 times concordantly or discordantly; of these:
+      9424 mates make up the pairs; of these:
+        6859 (72.78%) aligned 0 times
+        1259 (13.36%) aligned exactly 1 time
+        1306 (13.86%) aligned >1 times
+96.57% overall alignment rate
+Done
+Aligning paired-end files Tco-5161_1.fq.gz and Tco-5161_2.fq.gz from sample Tco5161:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    10358 (10.36%) aligned concordantly 0 times
+    61329 (61.33%) aligned concordantly exactly 1 time
+    28313 (28.31%) aligned concordantly >1 times
+    ----
+    10358 pairs aligned concordantly 0 times; of these:
+      983 (9.49%) aligned discordantly 1 time
+    ----
+    9375 pairs aligned 0 times concordantly or discordantly; of these:
+      18750 mates make up the pairs; of these:
+        16561 (88.33%) aligned 0 times
+        1003 (5.35%) aligned exactly 1 time
+        1186 (6.33%) aligned >1 times
+91.72% overall alignment rate
+Done
+Aligning paired-end files Tco-5224_1.fq.gz and Tco-5224_2.fq.gz from sample Tco5224:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5856 (5.86%) aligned concordantly 0 times
+    66303 (66.30%) aligned concordantly exactly 1 time
+    27841 (27.84%) aligned concordantly >1 times
+    ----
+    5856 pairs aligned concordantly 0 times; of these:
+      1063 (18.15%) aligned discordantly 1 time
+    ----
+    4793 pairs aligned 0 times concordantly or discordantly; of these:
+      9586 mates make up the pairs; of these:
+        7322 (76.38%) aligned 0 times
+        1010 (10.54%) aligned exactly 1 time
+        1254 (13.08%) aligned >1 times
+96.34% overall alignment rate
+Done
+Aligning paired-end files Tco-5296_1.fq.gz and Tco-5296_2.fq.gz from sample Tco5296:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    8653 (8.65%) aligned concordantly 0 times
+    62943 (62.94%) aligned concordantly exactly 1 time
+    28404 (28.40%) aligned concordantly >1 times
+    ----
+    8653 pairs aligned concordantly 0 times; of these:
+      887 (10.25%) aligned discordantly 1 time
+    ----
+    7766 pairs aligned 0 times concordantly or discordantly; of these:
+      15532 mates make up the pairs; of these:
+        13546 (87.21%) aligned 0 times
+        878 (5.65%) aligned exactly 1 time
+        1108 (7.13%) aligned >1 times
+93.23% overall alignment rate
+Done
+Aligning paired-end files Tco-5368_1.fq.gz and Tco-5368_2.fq.gz from sample Tco5368:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9311 (9.31%) aligned concordantly 0 times
+    62287 (62.29%) aligned concordantly exactly 1 time
+    28402 (28.40%) aligned concordantly >1 times
+    ----
+    9311 pairs aligned concordantly 0 times; of these:
+      995 (10.69%) aligned discordantly 1 time
+    ----
+    8316 pairs aligned 0 times concordantly or discordantly; of these:
+      16632 mates make up the pairs; of these:
+        14593 (87.74%) aligned 0 times
+        834 (5.01%) aligned exactly 1 time
+        1205 (7.25%) aligned >1 times
+92.70% overall alignment rate
+Done
+Aligning paired-end files Tco-5375_1.fq.gz and Tco-5375_2.fq.gz from sample Tco5375:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    6132 (6.13%) aligned concordantly 0 times
+    67791 (67.79%) aligned concordantly exactly 1 time
+    26077 (26.08%) aligned concordantly >1 times
+    ----
+    6132 pairs aligned concordantly 0 times; of these:
+      1234 (20.12%) aligned discordantly 1 time
+    ----
+    4898 pairs aligned 0 times concordantly or discordantly; of these:
+      9796 mates make up the pairs; of these:
+        7268 (74.19%) aligned 0 times
+        1241 (12.67%) aligned exactly 1 time
+        1287 (13.14%) aligned >1 times
+96.37% overall alignment rate
+Done
+Aligning paired-end files Tco-5520_1.fq.gz and Tco-5520_2.fq.gz from sample Tco5520:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5872 (5.87%) aligned concordantly 0 times
+    67445 (67.44%) aligned concordantly exactly 1 time
+    26683 (26.68%) aligned concordantly >1 times
+    ----
+    5872 pairs aligned concordantly 0 times; of these:
+      1152 (19.62%) aligned discordantly 1 time
+    ----
+    4720 pairs aligned 0 times concordantly or discordantly; of these:
+      9440 mates make up the pairs; of these:
+        6907 (73.17%) aligned 0 times
+        1273 (13.49%) aligned exactly 1 time
+        1260 (13.35%) aligned >1 times
+96.55% overall alignment rate
+Done
+Aligning paired-end files Tco-5572_1.fq.gz and Tco-5572_2.fq.gz from sample Tco5572:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5578 (5.58%) aligned concordantly 0 times
+    68000 (68.00%) aligned concordantly exactly 1 time
+    26422 (26.42%) aligned concordantly >1 times
+    ----
+    5578 pairs aligned concordantly 0 times; of these:
+      1123 (20.13%) aligned discordantly 1 time
+    ----
+    4455 pairs aligned 0 times concordantly or discordantly; of these:
+      8910 mates make up the pairs; of these:
+        6420 (72.05%) aligned 0 times
+        1249 (14.02%) aligned exactly 1 time
+        1241 (13.93%) aligned >1 times
+96.79% overall alignment rate
+Done
+Aligning paired-end files Tco-5578_1.fq.gz and Tco-5578_2.fq.gz from sample Tco5578:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9932 (9.93%) aligned concordantly 0 times
+    62055 (62.05%) aligned concordantly exactly 1 time
+    28013 (28.01%) aligned concordantly >1 times
+    ----
+    9932 pairs aligned concordantly 0 times; of these:
+      1263 (12.72%) aligned discordantly 1 time
+    ----
+    8669 pairs aligned 0 times concordantly or discordantly; of these:
+      17338 mates make up the pairs; of these:
+        14663 (84.57%) aligned 0 times
+        1126 (6.49%) aligned exactly 1 time
+        1549 (8.93%) aligned >1 times
+92.67% overall alignment rate
+Done
+Aligning paired-end files Tco-5592_1.fq.gz and Tco-5592_2.fq.gz from sample Tco5592:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9937 (9.94%) aligned concordantly 0 times
+    62341 (62.34%) aligned concordantly exactly 1 time
+    27722 (27.72%) aligned concordantly >1 times
+    ----
+    9937 pairs aligned concordantly 0 times; of these:
+      1000 (10.06%) aligned discordantly 1 time
+    ----
+    8937 pairs aligned 0 times concordantly or discordantly; of these:
+      17874 mates make up the pairs; of these:
+        15446 (86.42%) aligned 0 times
+        1135 (6.35%) aligned exactly 1 time
+        1293 (7.23%) aligned >1 times
+92.28% overall alignment rate
+Done
+Aligning paired-end files Tco-5615_1.fq.gz and Tco-5615_2.fq.gz from sample Tco5615:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    6114 (6.11%) aligned concordantly 0 times
+    67502 (67.50%) aligned concordantly exactly 1 time
+    26384 (26.38%) aligned concordantly >1 times
+    ----
+    6114 pairs aligned concordantly 0 times; of these:
+      1387 (22.69%) aligned discordantly 1 time
+    ----
+    4727 pairs aligned 0 times concordantly or discordantly; of these:
+      9454 mates make up the pairs; of these:
+        6935 (73.36%) aligned 0 times
+        1070 (11.32%) aligned exactly 1 time
+        1449 (15.33%) aligned >1 times
+96.53% overall alignment rate
+Done
+Aligning paired-end files Tco-5646_1.fq.gz and Tco-5646_2.fq.gz from sample Tco5646:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3687 (3.69%) aligned concordantly 0 times
+    63036 (63.04%) aligned concordantly exactly 1 time
+    33277 (33.28%) aligned concordantly >1 times
+    ----
+    3687 pairs aligned concordantly 0 times; of these:
+      1125 (30.51%) aligned discordantly 1 time
+    ----
+    2562 pairs aligned 0 times concordantly or discordantly; of these:
+      5124 mates make up the pairs; of these:
+        2327 (45.41%) aligned 0 times
+        1189 (23.20%) aligned exactly 1 time
+        1608 (31.38%) aligned >1 times
+98.84% overall alignment rate
+Done
+Aligning paired-end files Tco-5774_1.fq.gz and Tco-5774_2.fq.gz from sample Tco5774:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    6337 (6.34%) aligned concordantly 0 times
+    64946 (64.95%) aligned concordantly exactly 1 time
+    28717 (28.72%) aligned concordantly >1 times
+    ----
+    6337 pairs aligned concordantly 0 times; of these:
+      1169 (18.45%) aligned discordantly 1 time
+    ----
+    5168 pairs aligned 0 times concordantly or discordantly; of these:
+      10336 mates make up the pairs; of these:
+        7810 (75.56%) aligned 0 times
+        1157 (11.19%) aligned exactly 1 time
+        1369 (13.24%) aligned >1 times
+96.09% overall alignment rate
+Done
+Aligning paired-end files Tco-5798_1.fq.gz and Tco-5798_2.fq.gz from sample Tco5798:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5823 (5.82%) aligned concordantly 0 times
+    67245 (67.25%) aligned concordantly exactly 1 time
+    26932 (26.93%) aligned concordantly >1 times
+    ----
+    5823 pairs aligned concordantly 0 times; of these:
+      1251 (21.48%) aligned discordantly 1 time
+    ----
+    4572 pairs aligned 0 times concordantly or discordantly; of these:
+      9144 mates make up the pairs; of these:
+        6792 (74.28%) aligned 0 times
+        1041 (11.38%) aligned exactly 1 time
+        1311 (14.34%) aligned >1 times
+96.60% overall alignment rate
+Done
+Aligning paired-end files Tco-5814_1.fq.gz and Tco-5814_2.fq.gz from sample Tco5814:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5645 (5.64%) aligned concordantly 0 times
+    67594 (67.59%) aligned concordantly exactly 1 time
+    26761 (26.76%) aligned concordantly >1 times
+    ----
+    5645 pairs aligned concordantly 0 times; of these:
+      1128 (19.98%) aligned discordantly 1 time
+    ----
+    4517 pairs aligned 0 times concordantly or discordantly; of these:
+      9034 mates make up the pairs; of these:
+        6635 (73.44%) aligned 0 times
+        1180 (13.06%) aligned exactly 1 time
+        1219 (13.49%) aligned >1 times
+96.68% overall alignment rate
+Done
+Aligning paired-end files Tco-5864_1.fq.gz and Tco-5864_2.fq.gz from sample Tco5864:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    4023 (4.02%) aligned concordantly 0 times
+    61358 (61.36%) aligned concordantly exactly 1 time
+    34619 (34.62%) aligned concordantly >1 times
+    ----
+    4023 pairs aligned concordantly 0 times; of these:
+      1133 (28.16%) aligned discordantly 1 time
+    ----
+    2890 pairs aligned 0 times concordantly or discordantly; of these:
+      5780 mates make up the pairs; of these:
+        2648 (45.81%) aligned 0 times
+        1285 (22.23%) aligned exactly 1 time
+        1847 (31.96%) aligned >1 times
+98.68% overall alignment rate
+Done
+Aligning paired-end files Tco-5908_1.fq.gz and Tco-5908_2.fq.gz from sample Tco5908:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5578 (5.58%) aligned concordantly 0 times
+    68000 (68.00%) aligned concordantly exactly 1 time
+    26422 (26.42%) aligned concordantly >1 times
+    ----
+    5578 pairs aligned concordantly 0 times; of these:
+      1123 (20.13%) aligned discordantly 1 time
+    ----
+    4455 pairs aligned 0 times concordantly or discordantly; of these:
+      8910 mates make up the pairs; of these:
+        6420 (72.05%) aligned 0 times
+        1249 (14.02%) aligned exactly 1 time
+        1241 (13.93%) aligned >1 times
+96.79% overall alignment rate
+Done
+Aligning paired-end files Tco-5934_1.fq.gz and Tco-5934_2.fq.gz from sample Tco5934:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    99542 (99.54%) aligned concordantly 0 times
+    329 (0.33%) aligned concordantly exactly 1 time
+    129 (0.13%) aligned concordantly >1 times
+    ----
+    99542 pairs aligned concordantly 0 times; of these:
+      3 (0.00%) aligned discordantly 1 time
+    ----
+    99539 pairs aligned 0 times concordantly or discordantly; of these:
+      199078 mates make up the pairs; of these:
+        199058 (99.99%) aligned 0 times
+        3 (0.00%) aligned exactly 1 time
+        17 (0.01%) aligned >1 times
+0.47% overall alignment rate
+Done
+Aligning paired-end files Tco-6016_1.fq.gz and Tco-6016_2.fq.gz from sample Tco6016:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5902 (5.90%) aligned concordantly 0 times
+    67851 (67.85%) aligned concordantly exactly 1 time
+    26247 (26.25%) aligned concordantly >1 times
+    ----
+    5902 pairs aligned concordantly 0 times; of these:
+      1191 (20.18%) aligned discordantly 1 time
+    ----
+    4711 pairs aligned 0 times concordantly or discordantly; of these:
+      9422 mates make up the pairs; of these:
+        6887 (73.09%) aligned 0 times
+        1218 (12.93%) aligned exactly 1 time
+        1317 (13.98%) aligned >1 times
+96.56% overall alignment rate
+Done
+Aligning paired-end files Tco-6028_1.fq.gz and Tco-6028_2.fq.gz from sample Tco6028:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9202 (9.20%) aligned concordantly 0 times
+    64082 (64.08%) aligned concordantly exactly 1 time
+    26716 (26.72%) aligned concordantly >1 times
+    ----
+    9202 pairs aligned concordantly 0 times; of these:
+      1135 (12.33%) aligned discordantly 1 time
+    ----
+    8067 pairs aligned 0 times concordantly or discordantly; of these:
+      16134 mates make up the pairs; of these:
+        13636 (84.52%) aligned 0 times
+        1149 (7.12%) aligned exactly 1 time
+        1349 (8.36%) aligned >1 times
+93.18% overall alignment rate
+Done
+Aligning paired-end files Tco-6037_1.fq.gz and Tco-6037_2.fq.gz from sample Tco6037:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3092 (3.09%) aligned concordantly 0 times
+    62292 (62.29%) aligned concordantly exactly 1 time
+    34616 (34.62%) aligned concordantly >1 times
+    ----
+    3092 pairs aligned concordantly 0 times; of these:
+      843 (27.26%) aligned discordantly 1 time
+    ----
+    2249 pairs aligned 0 times concordantly or discordantly; of these:
+      4498 mates make up the pairs; of these:
+        2206 (49.04%) aligned 0 times
+        890 (19.79%) aligned exactly 1 time
+        1402 (31.17%) aligned >1 times
+98.90% overall alignment rate
+Done
+Aligning paired-end files Tco-6114_1.fq.gz and Tco-6114_2.fq.gz from sample Tco6114:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    35713 (35.71%) aligned concordantly 0 times
+    42004 (42.00%) aligned concordantly exactly 1 time
+    22283 (22.28%) aligned concordantly >1 times
+    ----
+    35713 pairs aligned concordantly 0 times; of these:
+      496 (1.39%) aligned discordantly 1 time
+    ----
+    35217 pairs aligned 0 times concordantly or discordantly; of these:
+      70434 mates make up the pairs; of these:
+        69495 (98.67%) aligned 0 times
+        315 (0.45%) aligned exactly 1 time
+        624 (0.89%) aligned >1 times
+65.25% overall alignment rate
+Done
+Aligning paired-end files Tco-6153_1.fq.gz and Tco-6153_2.fq.gz from sample Tco6153:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3974 (3.97%) aligned concordantly 0 times
+    61993 (61.99%) aligned concordantly exactly 1 time
+    34033 (34.03%) aligned concordantly >1 times
+    ----
+    3974 pairs aligned concordantly 0 times; of these:
+      1130 (28.43%) aligned discordantly 1 time
+    ----
+    2844 pairs aligned 0 times concordantly or discordantly; of these:
+      5688 mates make up the pairs; of these:
+        2652 (46.62%) aligned 0 times
+        1277 (22.45%) aligned exactly 1 time
+        1759 (30.92%) aligned >1 times
+98.67% overall alignment rate
+Done
+Aligning paired-end files Tco-6195_1.fq.gz and Tco-6195_2.fq.gz from sample Tco6195:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    10137 (10.14%) aligned concordantly 0 times
+    61535 (61.53%) aligned concordantly exactly 1 time
+    28328 (28.33%) aligned concordantly >1 times
+    ----
+    10137 pairs aligned concordantly 0 times; of these:
+      918 (9.06%) aligned discordantly 1 time
+    ----
+    9219 pairs aligned 0 times concordantly or discordantly; of these:
+      18438 mates make up the pairs; of these:
+        16389 (88.89%) aligned 0 times
+        898 (4.87%) aligned exactly 1 time
+        1151 (6.24%) aligned >1 times
+91.81% overall alignment rate
+Done
+Aligning paired-end files Tco-6225_1.fq.gz and Tco-6225_2.fq.gz from sample Tco6225:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9133 (9.13%) aligned concordantly 0 times
+    63843 (63.84%) aligned concordantly exactly 1 time
+    27024 (27.02%) aligned concordantly >1 times
+    ----
+    9133 pairs aligned concordantly 0 times; of these:
+      995 (10.89%) aligned discordantly 1 time
+    ----
+    8138 pairs aligned 0 times concordantly or discordantly; of these:
+      16276 mates make up the pairs; of these:
+        13821 (84.92%) aligned 0 times
+        1175 (7.22%) aligned exactly 1 time
+        1280 (7.86%) aligned >1 times
+93.09% overall alignment rate
+Done
+Aligning paired-end files Tco-6241_1.fq.gz and Tco-6241_2.fq.gz from sample Tco6241:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5679 (5.68%) aligned concordantly 0 times
+    67472 (67.47%) aligned concordantly exactly 1 time
+    26849 (26.85%) aligned concordantly >1 times
+    ----
+    5679 pairs aligned concordantly 0 times; of these:
+      1252 (22.05%) aligned discordantly 1 time
+    ----
+    4427 pairs aligned 0 times concordantly or discordantly; of these:
+      8854 mates make up the pairs; of these:
+        6426 (72.58%) aligned 0 times
+        1107 (12.50%) aligned exactly 1 time
+        1321 (14.92%) aligned >1 times
+96.79% overall alignment rate
+Done
+Aligning paired-end files Tco-6288_1.fq.gz and Tco-6288_2.fq.gz from sample Tco6288:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3029 (3.03%) aligned concordantly 0 times
+    61429 (61.43%) aligned concordantly exactly 1 time
+    35542 (35.54%) aligned concordantly >1 times
+    ----
+    3029 pairs aligned concordantly 0 times; of these:
+      1023 (33.77%) aligned discordantly 1 time
+    ----
+    2006 pairs aligned 0 times concordantly or discordantly; of these:
+      4012 mates make up the pairs; of these:
+        1974 (49.20%) aligned 0 times
+        580 (14.46%) aligned exactly 1 time
+        1458 (36.34%) aligned >1 times
+99.01% overall alignment rate
+Done
+Aligning paired-end files Tco-6307_1.fq.gz and Tco-6307_2.fq.gz from sample Tco6307:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3828 (3.83%) aligned concordantly 0 times
+    62965 (62.97%) aligned concordantly exactly 1 time
+    33207 (33.21%) aligned concordantly >1 times
+    ----
+    3828 pairs aligned concordantly 0 times; of these:
+      1124 (29.36%) aligned discordantly 1 time
+    ----
+    2704 pairs aligned 0 times concordantly or discordantly; of these:
+      5408 mates make up the pairs; of these:
+        2442 (45.16%) aligned 0 times
+        1186 (21.93%) aligned exactly 1 time
+        1780 (32.91%) aligned >1 times
+98.78% overall alignment rate
+Done
+Aligning paired-end files Tco-6320_1.fq.gz and Tco-6320_2.fq.gz from sample Tco6320:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3933 (3.93%) aligned concordantly 0 times
+    61595 (61.59%) aligned concordantly exactly 1 time
+    34472 (34.47%) aligned concordantly >1 times
+    ----
+    3933 pairs aligned concordantly 0 times; of these:
+      1047 (26.62%) aligned discordantly 1 time
+    ----
+    2886 pairs aligned 0 times concordantly or discordantly; of these:
+      5772 mates make up the pairs; of these:
+        2707 (46.90%) aligned 0 times
+        1271 (22.02%) aligned exactly 1 time
+        1794 (31.08%) aligned >1 times
+98.65% overall alignment rate
+Done
+Aligning paired-end files Tco-6395_1.fq.gz and Tco-6395_2.fq.gz from sample Tco6395:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9548 (9.55%) aligned concordantly 0 times
+    63955 (63.95%) aligned concordantly exactly 1 time
+    26497 (26.50%) aligned concordantly >1 times
+    ----
+    9548 pairs aligned concordantly 0 times; of these:
+      1040 (10.89%) aligned discordantly 1 time
+    ----
+    8508 pairs aligned 0 times concordantly or discordantly; of these:
+      17016 mates make up the pairs; of these:
+        14429 (84.80%) aligned 0 times
+        1282 (7.53%) aligned exactly 1 time
+        1305 (7.67%) aligned >1 times
+92.79% overall alignment rate
+Done
+Aligning paired-end files Tco-6422_1.fq.gz and Tco-6422_2.fq.gz from sample Tco6422:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3489 (3.49%) aligned concordantly 0 times
+    63611 (63.61%) aligned concordantly exactly 1 time
+    32900 (32.90%) aligned concordantly >1 times
+    ----
+    3489 pairs aligned concordantly 0 times; of these:
+      991 (28.40%) aligned discordantly 1 time
+    ----
+    2498 pairs aligned 0 times concordantly or discordantly; of these:
+      4996 mates make up the pairs; of these:
+        2251 (45.06%) aligned 0 times
+        1192 (23.86%) aligned exactly 1 time
+        1553 (31.08%) aligned >1 times
+98.87% overall alignment rate
+Done
+Aligning paired-end files Tco-6475_1.fq.gz and Tco-6475_2.fq.gz from sample Tco6475:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9918 (9.92%) aligned concordantly 0 times
+    62698 (62.70%) aligned concordantly exactly 1 time
+    27384 (27.38%) aligned concordantly >1 times
+    ----
+    9918 pairs aligned concordantly 0 times; of these:
+      1020 (10.28%) aligned discordantly 1 time
+    ----
+    8898 pairs aligned 0 times concordantly or discordantly; of these:
+      17796 mates make up the pairs; of these:
+        15553 (87.40%) aligned 0 times
+        1044 (5.87%) aligned exactly 1 time
+        1199 (6.74%) aligned >1 times
+92.22% overall alignment rate
+Done
+Aligning paired-end files Tco-6499_1.fq.gz and Tco-6499_2.fq.gz from sample Tco6499:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9918 (9.92%) aligned concordantly 0 times
+    62698 (62.70%) aligned concordantly exactly 1 time
+    27384 (27.38%) aligned concordantly >1 times
+    ----
+    9918 pairs aligned concordantly 0 times; of these:
+      1020 (10.28%) aligned discordantly 1 time
+    ----
+    8898 pairs aligned 0 times concordantly or discordantly; of these:
+      17796 mates make up the pairs; of these:
+        15553 (87.40%) aligned 0 times
+        1044 (5.87%) aligned exactly 1 time
+        1199 (6.74%) aligned >1 times
+92.22% overall alignment rate
+Done
+Aligning paired-end files Tco-6520_1.fq.gz and Tco-6520_2.fq.gz from sample Tco6520:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    4207 (4.21%) aligned concordantly 0 times
+    60619 (60.62%) aligned concordantly exactly 1 time
+    35174 (35.17%) aligned concordantly >1 times
+    ----
+    4207 pairs aligned concordantly 0 times; of these:
+      1346 (31.99%) aligned discordantly 1 time
+    ----
+    2861 pairs aligned 0 times concordantly or discordantly; of these:
+      5722 mates make up the pairs; of these:
+        2697 (47.13%) aligned 0 times
+        968 (16.92%) aligned exactly 1 time
+        2057 (35.95%) aligned >1 times
+98.65% overall alignment rate
+Done
+Aligning paired-end files Tco-6580_1.fq.gz and Tco-6580_2.fq.gz from sample Tco6580:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    4069 (4.07%) aligned concordantly 0 times
+    62926 (62.93%) aligned concordantly exactly 1 time
+    33005 (33.01%) aligned concordantly >1 times
+    ----
+    4069 pairs aligned concordantly 0 times; of these:
+      1241 (30.50%) aligned discordantly 1 time
+    ----
+    2828 pairs aligned 0 times concordantly or discordantly; of these:
+      5656 mates make up the pairs; of these:
+        2520 (44.55%) aligned 0 times
+        1305 (23.07%) aligned exactly 1 time
+        1831 (32.37%) aligned >1 times
+98.74% overall alignment rate
+Done
+Aligning paired-end files Tco-6600_1.fq.gz and Tco-6600_2.fq.gz from sample Tco6600:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    6011 (6.01%) aligned concordantly 0 times
+    66208 (66.21%) aligned concordantly exactly 1 time
+    27781 (27.78%) aligned concordantly >1 times
+    ----
+    6011 pairs aligned concordantly 0 times; of these:
+      1182 (19.66%) aligned discordantly 1 time
+    ----
+    4829 pairs aligned 0 times concordantly or discordantly; of these:
+      9658 mates make up the pairs; of these:
+        7300 (75.59%) aligned 0 times
+        1021 (10.57%) aligned exactly 1 time
+        1337 (13.84%) aligned >1 times
+96.35% overall alignment rate
+Done
+Aligning paired-end files Tco-6619_1.fq.gz and Tco-6619_2.fq.gz from sample Tco6619:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3404 (3.40%) aligned concordantly 0 times
+    61373 (61.37%) aligned concordantly exactly 1 time
+    35223 (35.22%) aligned concordantly >1 times
+    ----
+    3404 pairs aligned concordantly 0 times; of these:
+      929 (27.29%) aligned discordantly 1 time
+    ----
+    2475 pairs aligned 0 times concordantly or discordantly; of these:
+      4950 mates make up the pairs; of these:
+        2443 (49.35%) aligned 0 times
+        1003 (20.26%) aligned exactly 1 time
+        1504 (30.38%) aligned >1 times
+98.78% overall alignment rate
+Done
+Aligning paired-end files Tco-6624_1.fq.gz and Tco-6624_2.fq.gz from sample Tco6624:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    9897 (9.90%) aligned concordantly 0 times
+    62303 (62.30%) aligned concordantly exactly 1 time
+    27800 (27.80%) aligned concordantly >1 times
+    ----
+    9897 pairs aligned concordantly 0 times; of these:
+      1120 (11.32%) aligned discordantly 1 time
+    ----
+    8777 pairs aligned 0 times concordantly or discordantly; of these:
+      17554 mates make up the pairs; of these:
+        15069 (85.84%) aligned 0 times
+        1059 (6.03%) aligned exactly 1 time
+        1426 (8.12%) aligned >1 times
+92.47% overall alignment rate
+Done
+Aligning paired-end files Tco-6658_1.fq.gz and Tco-6658_2.fq.gz from sample Tco6658:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    4057 (4.06%) aligned concordantly 0 times
+    62643 (62.64%) aligned concordantly exactly 1 time
+    33300 (33.30%) aligned concordantly >1 times
+    ----
+    4057 pairs aligned concordantly 0 times; of these:
+      1231 (30.34%) aligned discordantly 1 time
+    ----
+    2826 pairs aligned 0 times concordantly or discordantly; of these:
+      5652 mates make up the pairs; of these:
+        2615 (46.27%) aligned 0 times
+        1176 (20.81%) aligned exactly 1 time
+        1861 (32.93%) aligned >1 times
+98.69% overall alignment rate
+Done
+Aligning paired-end files Tco-6675_1.fq.gz and Tco-6675_2.fq.gz from sample Tco6675:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    10003 (10.00%) aligned concordantly 0 times
+    62842 (62.84%) aligned concordantly exactly 1 time
+    27155 (27.16%) aligned concordantly >1 times
+    ----
+    10003 pairs aligned concordantly 0 times; of these:
+      1059 (10.59%) aligned discordantly 1 time
+    ----
+    8944 pairs aligned 0 times concordantly or discordantly; of these:
+      17888 mates make up the pairs; of these:
+        15420 (86.20%) aligned 0 times
+        1127 (6.30%) aligned exactly 1 time
+        1341 (7.50%) aligned >1 times
+92.29% overall alignment rate
+Done
+Aligning paired-end files Tco-6761_1.fq.gz and Tco-6761_2.fq.gz from sample Tco6761:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3712 (3.71%) aligned concordantly 0 times
+    62367 (62.37%) aligned concordantly exactly 1 time
+    33921 (33.92%) aligned concordantly >1 times
+    ----
+    3712 pairs aligned concordantly 0 times; of these:
+      1082 (29.15%) aligned discordantly 1 time
+    ----
+    2630 pairs aligned 0 times concordantly or discordantly; of these:
+      5260 mates make up the pairs; of these:
+        2620 (49.81%) aligned 0 times
+        1115 (21.20%) aligned exactly 1 time
+        1525 (28.99%) aligned >1 times
+98.69% overall alignment rate
+Done
+Aligning paired-end files Tco-6778_1.fq.gz and Tco-6778_2.fq.gz from sample Tco6778:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3614 (3.61%) aligned concordantly 0 times
+    61582 (61.58%) aligned concordantly exactly 1 time
+    34804 (34.80%) aligned concordantly >1 times
+    ----
+    3614 pairs aligned concordantly 0 times; of these:
+      1054 (29.16%) aligned discordantly 1 time
+    ----
+    2560 pairs aligned 0 times concordantly or discordantly; of these:
+      5120 mates make up the pairs; of these:
+        2284 (44.61%) aligned 0 times
+        1169 (22.83%) aligned exactly 1 time
+        1667 (32.56%) aligned >1 times
+98.86% overall alignment rate
+Done
+Aligning paired-end files Tco-6821_1.fq.gz and Tco-6821_2.fq.gz from sample Tco6821:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    10146 (10.15%) aligned concordantly 0 times
+    62815 (62.81%) aligned concordantly exactly 1 time
+    27039 (27.04%) aligned concordantly >1 times
+    ----
+    10146 pairs aligned concordantly 0 times; of these:
+      1039 (10.24%) aligned discordantly 1 time
+    ----
+    9107 pairs aligned 0 times concordantly or discordantly; of these:
+      18214 mates make up the pairs; of these:
+        15824 (86.88%) aligned 0 times
+        1103 (6.06%) aligned exactly 1 time
+        1287 (7.07%) aligned >1 times
+92.09% overall alignment rate
+Done
+Aligning paired-end files Tco-6890_1.fq.gz and Tco-6890_2.fq.gz from sample Tco6890:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5586 (5.59%) aligned concordantly 0 times
+    66871 (66.87%) aligned concordantly exactly 1 time
+    27543 (27.54%) aligned concordantly >1 times
+    ----
+    5586 pairs aligned concordantly 0 times; of these:
+      1042 (18.65%) aligned discordantly 1 time
+    ----
+    4544 pairs aligned 0 times concordantly or discordantly; of these:
+      9088 mates make up the pairs; of these:
+        6680 (73.50%) aligned 0 times
+        1156 (12.72%) aligned exactly 1 time
+        1252 (13.78%) aligned >1 times
+96.66% overall alignment rate
+Done
+Aligning paired-end files Tco-6894_1.fq.gz and Tco-6894_2.fq.gz from sample Tco6894:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    5845 (5.84%) aligned concordantly 0 times
+    67609 (67.61%) aligned concordantly exactly 1 time
+    26546 (26.55%) aligned concordantly >1 times
+    ----
+    5845 pairs aligned concordantly 0 times; of these:
+      1133 (19.38%) aligned discordantly 1 time
+    ----
+    4712 pairs aligned 0 times concordantly or discordantly; of these:
+      9424 mates make up the pairs; of these:
+        6859 (72.78%) aligned 0 times
+        1259 (13.36%) aligned exactly 1 time
+        1306 (13.86%) aligned >1 times
+96.57% overall alignment rate
+Done
+Aligning paired-end files Tco-6950_1.fq.gz and Tco-6950_2.fq.gz from sample Tco6950:
+100000 reads; of these:
+  100000 (100.00%) were paired; of these:
+    3934 (3.93%) aligned concordantly 0 times
+    61193 (61.19%) aligned concordantly exactly 1 time
+    34873 (34.87%) aligned concordantly >1 times
+    ----
+    3934 pairs aligned concordantly 0 times; of these:
+      1216 (30.91%) aligned discordantly 1 time
+    ----
+    2718 pairs aligned 0 times concordantly or discordantly; of these:
+      5436 mates make up the pairs; of these:
+        2337 (42.99%) aligned 0 times
+        1116 (20.53%) aligned exactly 1 time
+        1983 (36.48%) aligned >1 times
+98.83% overall alignment rate
+Done
