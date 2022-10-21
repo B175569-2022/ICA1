@@ -77,7 +77,7 @@ do
     else 
     echo -e "Sample ${SampleName} did not fail any of the selected fastqc filters\n\n"
   fi
-done < <(tail -n +48 ${DETAILS_FILE}) ## test !!!
+done < <(tail -n +2 ${DETAILS_FILE})
 
 
 NUMBER_DROPPED=$(wc -l ${DROPPED} | cut -d' ' -f1)
