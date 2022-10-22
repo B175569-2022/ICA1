@@ -86,7 +86,10 @@ if [ ${NUMBER_DROPPED} -eq 0 ]
  else echo -e "samples failed quality check, review file:\n ${DROPPED} "
 fi
 
-  
+### create new detailed with the non-dropped samples
+grep -vf ${DROPPED} ${DETAILS_FILE} > ${PWD}/temp.details.file
+
+
   
   
 

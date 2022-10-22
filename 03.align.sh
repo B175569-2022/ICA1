@@ -5,8 +5,9 @@
 INDEX=${PWD}/Tcongo_genome_index/TriTrypDB-46_TcongolenseIL3000_2019_Genome
 # fastq data input directory
 IN=/localdisk/data/BPSM/ICA1/fastq
-# details file
-DETAILS_FILE=${IN}/Tco.fqfiles
+# details file - used non-dropped
+#DETAILS_FILE=${IN}/Tco.fqfiles
+DETAILS_FILE=${PWD}/temp.details.file
 # header of details file. contains: "SampleName SampleType Replicate Time Treatment End1 End2"
 HEADER=$(head -n1 ${DETAILS_FILE})
 
