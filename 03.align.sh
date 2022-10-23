@@ -14,13 +14,12 @@ HEADER=$(head -n1 ${DETAILS_FILE})
 ### make output dirs
 # .bam
 BAM=${PWD}/bam.files
-rm -r ${BAM}
 mkdir -p ${BAM} 
+rm ${BAM}/*
 # sorted .bam
 BAM_SORTED=${PWD}/bam.sorted.files
-rm -r ${BAM_SORTED}
 mkdir -p ${BAM_SORTED}
-
+rm ${BAM_SORTED}/*
 
 ###
 while read ${HEADER}
@@ -35,5 +34,7 @@ do
   echo -e "Done"  
 done < <(tail -n +2 ${DETAILS_FILE})
 
+# remove unsorted .bam files - not needed
+rm -r ${BAM}
 
 
