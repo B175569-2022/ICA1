@@ -87,7 +87,7 @@ if [ ${NUMBER_DROPPED} -eq 0 ]
 fi
 
 ### create new detailed with the non-dropped samples
-grep -vf ${DROPPED} ${DETAILS_FILE} > ${PWD}/temp.details.file
+grep -vf ${DROPPED} ${DETAILS_FILE} > ${PWD}/qced.samples.details.file
 
 
   

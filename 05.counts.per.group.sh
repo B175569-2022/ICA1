@@ -2,7 +2,7 @@
 
 ### variables
 # details file - use non-dropped
-DETAILS_FILE=${PWD}/temp.details.file
+DETAILS_FILE=${PWD}/qced.samples.details.file
 
 ### define group options
 # column2: sample type (WT, Clone1, Clone2, ...) * if more types added to the details file, they will be included here
@@ -73,7 +73,21 @@ do
   fi
 done
 
-# merge gene info from the counts .bed file + all columns from temp.group files -> tab delimited text file
+## merge gene info from the counts .bed file + all columns from temp.group files -> tab delimited text file
+## all groups in one tab delimited file:
 awk 'BEGIN{FS="\t"; OFS="\t"} {print $1,$2,$3,$4,$5}' ${COUNTS} > ${TEMP_DIR}/temp.all.info # extract gene info columns from counts file
-paste -d"\t" ${TEMP_DIR}/temp.* > ${OUT}/per.group.mean.counts.txt
+paste -d"\t" ${TEMP_DIR}/temp.* > ${OUT}/per.group.mean.counts.all.groups.txt
+## each group in seperate tab delimited file:
+# first and last column numbers for groups in per.group.mean.counts.all.groups.txt file - to use in loop
+first=6
+last=$(head -n1 ${OUT}/per.group.mean.counts.all.groups.txt | awk 'BEGIN{FS="\t"} {print NF}') 
+for (( group_col=$first; group_col<=$last; group_col++ ))
+do 
+  group_name=$(head -n1 ${OUT}/per.group.mean.counts.all.groups.txt | cut -d$'\t' -f ${group_col}) # get group name
+  awk -v group_name=$group_name -v group_col=$group_col 'BEGIN{FS="\t"; OFS="\t"} {print $1,$2,$3,$4,$5,$group_col}' ${OUT}/per.group.mean.counts.all.groups.txt > ${OUT}/per.group.mean.counts.${group_name}.txt
+done
+
+# remove temp files
+rm -r ${TEMP_DIR}
+
 
