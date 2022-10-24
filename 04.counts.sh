@@ -10,8 +10,8 @@ SAMPLE_NAMES=$(ls -1 ${PWD}/bam.sorted.files/*.sorted.bam | xargs -n1 basename |
 
 ### make output dir for counts data
 OUT=${PWD}/counts.data
-rm -r ${OUT}
 mkdir -p ${OUT}
+rm -f ${OUT}/*
 
 ### run bedtools multicov: "reports the counts of alignments from multiple .bam files (samples) that overlap intervals in a .bed file (gene locations here)"
 ### counts for each sample are added on columns after the gene information

@@ -13,8 +13,8 @@ FILTERS=${PWD}/x.fastqc.filters.list
 ### make new directories / files
 # fastqc output for all samples
 FASTQC_OUT=${PWD}/fastqc.results
-rm -r ${FASTQC_OUT}
 mkdir -p ${FASTQC_OUT}
+rm -f ${FASTQC_OUT}/*
 # list of dropped samples
 DROPPED=${FASTQC_OUT}/dropped.samples
 rm -f ${DROPPED}
@@ -73,9 +73,11 @@ do
   if grep -qxf ${FAILED_STATS_1} ${FILTERS} || grep -qxf ${FAILED_STATS_2} ${FILTERS}
     then 
     echo ${SampleName} >> ${DROPPED}
-    echo -e "Warning: sample ${SampleName} failed one or more of the selected fastqc filters. Please review the folder ${FASTQC_OUT}/${SampleName}\n\n"
+    echo -e "Warning: sample ${SampleName} failed one or more of the selected fastqc filters. Please review the folder ${FASTQC_OUT}/${SampleName}\n"
+    echo -e "~~~~~~~~~~~~~~~~~\n"
     else 
-    echo -e "Sample ${SampleName} did not fail any of the selected fastqc filters\n\n"
+    echo -e "Sample ${SampleName} did not fail any of the selected fastqc filters\n"
+    echo -e "~~~~~~~~~~~~~~~~~\n"
   fi
 done < <(tail -n +2 ${DETAILS_FILE})
 
@@ -86,7 +88,7 @@ if [ ${NUMBER_DROPPED} -eq 0 ]
  else echo -e "samples failed quality check, review file:\n ${DROPPED} "
 fi
 
-### create new detailed with the non-dropped samples
+### create new detailed with the non-dropped samples (now, no samples were dropped)
 grep -vf ${DROPPED} ${DETAILS_FILE} > ${PWD}/qced.samples.details.file
 
 

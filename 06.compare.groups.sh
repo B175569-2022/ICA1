@@ -3,7 +3,7 @@
 ### get all unique pairs of groups to compare (n(n-1)/2) (here 105 pairs)
 # make output dir
 mkdir -p ${PWD}/counts.data.fold.diffs
-rm ${PWD}/counts.data.fold.diffs/* # clear previous files
+rm -f ${PWD}/counts.data.fold.diffs/* # clear previous files
 
 # input dir of mean counts per group (all groups file: per.group.mean.counts.all.groups.txt)
 MEAN_COUNTS_IN=${PWD}/counts.data.per.group/per.group.mean.counts.all.groups.txt
@@ -23,11 +23,18 @@ do
   done
 done > ${PWD}/x.group.pairs.to.choose # file columns: group_name1 group_name2 col_number1 col_number2
 
+# exclude group pairs that were commented by user
+# this will do nothing by default, only if the user comments (#) lines from the file
+grep -v "^#" ${PWD}/x.group.pairs.to.choose > ${PWD}/x.group.pairs.to.choose.updated
+
+# make group.pair lists writeable:
+chmod 777 ${PWD}/x.group.pairs.to.choose 
+chmod 777 ${PWD}/x.group.pairs.to.choose.updated 
 
 # create header for outputs:
 awk 'BEGIN{FS="\t"; OFS="\t"} NR==1 {print $1,$2,$3,$4,$5,"fold_change"}' ${MEAN_COUNTS_IN} > ${PWD}/temp.header
 
-# loop through each possible groups pair from file x.group.pairs.to.choose
+# loop through each possible groups pair from file x.group.pairs.to.choose.updated
 # produce tab delimited .txt files with fold count change for each gene, sorted by absolute magnitude:
  
 while read group1 group2 col1 col2
@@ -52,7 +59,7 @@ do
   rm ${PWD}/temp.${group1}.vs.${group2}.no.header.txt
   rm ${PWD}/temp.${group1}.vs.${group2}.no.header.abs.txt
   rm ${PWD}/temp.${group1}.vs.${group2}.no.header.abs.sorted.txt
-done < ${PWD}/x.group.pairs.to.choose
+done < ${PWD}/x.group.pairs.to.choose.updated
 
 rm ${PWD}/temp.header
 

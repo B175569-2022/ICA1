@@ -15,11 +15,11 @@ HEADER=$(head -n1 ${DETAILS_FILE})
 # .bam
 BAM=${PWD}/bam.files
 mkdir -p ${BAM} 
-rm ${BAM}/*
+rm -f ${BAM}/*
 # sorted .bam
 BAM_SORTED=${PWD}/bam.sorted.files
 mkdir -p ${BAM_SORTED}
-rm ${BAM_SORTED}/*
+rm -f ${BAM_SORTED}/*
 
 ###
 while read ${HEADER}
